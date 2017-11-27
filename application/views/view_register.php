@@ -17,5 +17,6 @@
     <br/>
     <input type="submit" value="Register"/>
   </form> 
+  <a href="login"><h3>Đăng nhập</h3></a>
 </body>
 </html>
